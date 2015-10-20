@@ -4,7 +4,7 @@
 #############################
  
 ## Par William Vincent - william66750 - @ - g m a i l (.) com
-## Description : Send log file to xmpp 
+## Description : Send log file to xmpp // Envoi de log via XMPP 
 ## Dependances: python-pydns xmpppy ( http://xmpppy.sourceforge.net/ ) 
  
 #############################
