@@ -7,7 +7,7 @@
 ## Description : Parser ID rule modsecurity : Permet d'extraire des logs, l'ID, le message et l'URL de la detection
 
 
-# ModSecurity LogType: concurent ( logs séparés par jour/heure-minute/ensembleDeLaTransaction )
+# ModSecurity LogType: concurent ( logs separes par jour/heure-minute/ensembleDeLaTransaction )
 
 # Executer :
 #   python matchRegexLogModSec.py /directory/Path/
